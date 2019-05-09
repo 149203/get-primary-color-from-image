@@ -7,6 +7,7 @@ Place your file in `/images`. Change the `image_path` to your file.
 ```
 npm start
 ```
+Check the console.
 
 # How to push to Github from local
 
